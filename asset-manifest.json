@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Chrome-Website-Clone/static/css/main.b6318310.css",
+    "main.js": "/Chrome-Website-Clone/static/js/main.35231caa.js",
+    "index.html": "/Chrome-Website-Clone/index.html",
+    "main.b6318310.css.map": "/Chrome-Website-Clone/static/css/main.b6318310.css.map",
+    "main.35231caa.js.map": "/Chrome-Website-Clone/static/js/main.35231caa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6318310.css",
+    "static/js/main.35231caa.js"
+  ]
+}
