@@ -5,10 +5,8 @@ import style from './page1.module.css'
 const Page1 = ({y}) => {
 
     const img = useRef(null);
-    console.log(y)
     useEffect(()=>{
         if(y >= 1100) {
-            console.log('executing')
         gsap.to(img.current, {
             duration: 2,
             rotation: 720,

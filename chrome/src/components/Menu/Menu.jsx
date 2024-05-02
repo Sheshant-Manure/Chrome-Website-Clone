@@ -24,7 +24,7 @@ const Menu = ({y}) => {
                 <li>ByGoogle</li>
             </ul>
         </div>
-        <p>Need the Chrome installer? <a href='https://www.google.com/chrome/'>Download here</a> </p>
+        <p>Need the Chrome installer? <a href='https://www.google.com/chrome/'>Download here</a> </p><br/><br/><br/>
     </div>
   )
 }
